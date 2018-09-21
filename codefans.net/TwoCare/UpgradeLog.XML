@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Gates">
+</Property><Property Name="Solution File" Value="F:\Gates\Gates.sln">
+</Property><Property Name="User Options File" Value="F:\Gates\Gates.suo">
+</Property><Property Name="Date" Value="2007年10月9日">
+</Property><Property Name="Time" Value="16:40">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="Gates.sln" Description="File successfully backed up as F:\Gates\Backup\Gates.sln">
+</Event><Event ErrorLevel="0" Project="" Source="Gates.suo" Description="File successfully backed up as F:\Gates\Backup\Gates.suo">
+</Event><Event ErrorLevel="0" Project="Jackch" Source="jackch\Jackch.csproj" Description="Project file successfully backed up as F:\Gates\Backup\jackch\Jackch.csproj">
+</Event><Event ErrorLevel="0" Project="Jackch" Source="jackch\cmd.cs" Description="File successfully backed up as F:\Gates\Backup\jackch\cmd.cs">
+</Event><Event ErrorLevel="0" Project="Jackch" Source="jackch\DsControl.cs" Description="File successfully backed up as F:\Gates\Backup\jackch\DsControl.cs">
+</Event><Event ErrorLevel="0" Project="Jackch" Source="jackch\DsCore.cs" Description="File successfully backed up as F:\Gates\Backup\jackch\DsCore.cs">
+</Event><Event ErrorLevel="0" Project="Jackch" Source="jackch\DsDevice.cs" Description="File successfully backed up as F:\Gates\Backup\jackch\DsDevice.cs">
+</Event><Event ErrorLevel="0" Project="Jackch" Source="jackch\DsExtend.cs" Description="File successfully backed up as F:\Gates\Backup\jackch\DsExtend.cs">
+</Event><Event ErrorLevel="0" Project="Jackch" Source="jackch\DsUtils.cs" Description="File successfully backed up as F:\Gates\Backup\jackch\DsUtils.cs">
+</Event><Event ErrorLevel="0" Project="Jackch" Source="jackch\DsUuids.cs" Description="File successfully backed up as F:\Gates\Backup\jackch\DsUuids.cs">
+</Event><Event ErrorLevel="0" Project="Jackch" Source="jackch\Properties\AssemblyInfo.cs" Description="File successfully backed up as F:\Gates\Backup\jackch\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="Jackch" Source="jackch\Chickens.cs" Description="File successfully backed up as F:\Gates\Backup\jackch\Chickens.cs">
+</Event><Event ErrorLevel="0" Project="Jackch" Source="jackch\Chicken.cs" Description="File successfully backed up as F:\Gates\Backup\jackch\Chicken.cs">
+</Event><Event ErrorLevel="0" Project="Jackch" Source="jackch\Jackch.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Jackch" Source="jackch\Jackch.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Server" Source="Server\Server.csproj" Description="Project file successfully backed up as F:\Gates\Backup\Server\Server.csproj">
+</Event><Event ErrorLevel="0" Project="Server" Source="Server\Net.cs" Description="File successfully backed up as F:\Gates\Backup\Server\Net.cs">
+</Event><Event ErrorLevel="0" Project="Server" Source="Server\Server.cs" Description="File successfully backed up as F:\Gates\Backup\Server\Server.cs">
+</Event><Event ErrorLevel="0" Project="Server" Source="Server\Server.Designer.cs" Description="File successfully backed up as F:\Gates\Backup\Server\Server.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Server" Source="Server\Program.cs" Description="File successfully backed up as F:\Gates\Backup\Server\Program.cs">
+</Event><Event ErrorLevel="0" Project="Server" Source="Server\Properties\AssemblyInfo.cs" Description="File successfully backed up as F:\Gates\Backup\Server\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="Server" Source="Server\Properties\Resources.Designer.cs" Description="File successfully backed up as F:\Gates\Backup\Server\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Server" Source="Server\Properties\Settings.Designer.cs" Description="File successfully backed up as F:\Gates\Backup\Server\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Server" Source="Server\ViewScreen.cs" Description="File successfully backed up as F:\Gates\Backup\Server\ViewScreen.cs">
+</Event><Event ErrorLevel="0" Project="Server" Source="Server\Properties\Settings.settings" Description="File successfully backed up as F:\Gates\Backup\Server\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="Server" Source="Server\Properties\Resources.resx" Description="File successfully backed up as F:\Gates\Backup\Server\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="Server" Source="Server\Server.resx" Description="File successfully backed up as F:\Gates\Backup\Server\Server.resx">
+</Event><Event ErrorLevel="0" Project="Server" Source="Server\Server.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Server" Source="Server\Server.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Client" Source="Client\Client.csproj" Description="Project file successfully backed up as F:\Gates\Backup\Client\Client.csproj">
+</Event><Event ErrorLevel="0" Project="Client" Source="Client\Client.csproj.user" Description="Project user file successfully backed up as F:\Gates\Backup\Client\Client.csproj.user">
+</Event><Event ErrorLevel="0" Project="Client" Source="Client\About.cs" Description="File successfully backed up as F:\Gates\Backup\Client\About.cs">
+</Event><Event ErrorLevel="0" Project="Client" Source="Client\About.Designer.cs" Description="File successfully backed up as F:\Gates\Backup\Client\About.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Client" Source="Client\Cmd.cs" Description="File successfully backed up as F:\Gates\Backup\Client\Cmd.cs">
+</Event><Event ErrorLevel="0" Project="Client" Source="Client\Cmd.Designer.cs" Description="File successfully backed up as F:\Gates\Backup\Client\Cmd.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Client" Source="Client\DeviceSelector.cs" Description="File successfully backed up as F:\Gates\Backup\Client\DeviceSelector.cs">
+</Event><Event ErrorLevel="0" Project="Client" Source="Client\DeviceSelector.Designer.cs" Description="File successfully backed up as F:\Gates\Backup\Client\DeviceSelector.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Client" Source="Client\First.cs" Description="File successfully backed up as F:\Gates\Backup\Client\First.cs">
+</Event><Event ErrorLevel="0" Project="Client" Source="Client\First.Designer.cs" Description="File successfully backed up as F:\Gates\Backup\Client\First.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Client" Source="Client\MainForm.cs" Description="File successfully backed up as F:\Gates\Backup\Client\MainForm.cs">
+</Event><Event ErrorLevel="0" Project="Client" Source="Client\MainForm.Designer.cs" Description="File successfully backed up as F:\Gates\Backup\Client\MainForm.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Client" Source="Client\Program.cs" Description="File successfully backed up as F:\Gates\Backup\Client\Program.cs">
+</Event><Event ErrorLevel="0" Project="Client" Source="Client\Properties\AssemblyInfo.cs" Description="File successfully backed up as F:\Gates\Backup\Client\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="Client" Source="Client\Properties\Resources.Designer.cs" Description="File successfully backed up as F:\Gates\Backup\Client\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Client" Source="Client\Properties\Settings.Designer.cs" Description="File successfully backed up as F:\Gates\Backup\Client\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Client" Source="Client\Socket.cs" Description="File successfully backed up as F:\Gates\Backup\Client\Socket.cs">
+</Event><Event ErrorLevel="0" Project="Client" Source="Client\ViewScreen.cs" Description="File successfully backed up as F:\Gates\Backup\Client\ViewScreen.cs">
+</Event><Event ErrorLevel="0" Project="Client" Source="Client\ViewScreen.Designer.cs" Description="File successfully backed up as F:\Gates\Backup\Client\ViewScreen.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Client" Source="Client\Video.cs" Description="File successfully backed up as F:\Gates\Backup\Client\Video.cs">
+</Event><Event ErrorLevel="0" Project="Client" Source="Client\Video.Designer.cs" Description="File successfully backed up as F:\Gates\Backup\Client\Video.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Client" Source="Client\Properties\Settings.settings" Description="File successfully backed up as F:\Gates\Backup\Client\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="Client" Source="Client\About.resx" Description="File successfully backed up as F:\Gates\Backup\Client\About.resx">
+</Event><Event ErrorLevel="0" Project="Client" Source="Client\Cmd.resx" Description="File successfully backed up as F:\Gates\Backup\Client\Cmd.resx">
+</Event><Event ErrorLevel="0" Project="Client" Source="Client\DeviceSelector.resx" Description="File successfully backed up as F:\Gates\Backup\Client\DeviceSelector.resx">
+</Event><Event ErrorLevel="0" Project="Client" Source="Client\First.resx" Description="File successfully backed up as F:\Gates\Backup\Client\First.resx">
+</Event><Event ErrorLevel="0" Project="Client" Source="Client\MainForm.resx" Description="File successfully backed up as F:\Gates\Backup\Client\MainForm.resx">
+</Event><Event ErrorLevel="0" Project="Client" Source="Client\Properties\Resources.resx" Description="File successfully backed up as F:\Gates\Backup\Client\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="Client" Source="Client\ViewScreen.resx" Description="File successfully backed up as F:\Gates\Backup\Client\ViewScreen.resx">
+</Event><Event ErrorLevel="0" Project="Client" Source="Client\Video.resx" Description="File successfully backed up as F:\Gates\Backup\Client\Video.resx">
+</Event><Event ErrorLevel="0" Project="Client" Source="Client\Video.zh-CHS.resx" Description="File successfully backed up as F:\Gates\Backup\Client\Video.zh-CHS.resx">
+</Event><Event ErrorLevel="0" Project="Client" Source="Client\Client.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Client" Source="Client\Client.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="Gates.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="Gates.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Jackch" Source="jackch\Jackch.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="Server" Source="Server\Server.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="Client" Source="Client\Client.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

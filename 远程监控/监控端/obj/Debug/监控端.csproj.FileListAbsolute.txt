@@ -1,0 +1,14 @@
+E:\c#\protype\远程监控\监控端\obj\Debug\监控端.exe
+E:\c#\protype\远程监控\监控端\obj\Debug\监控端.pdb
+E:\c#\protype\远程监控\监控端\bin\Debug\监控端.exe
+E:\c#\protype\远程监控\监控端\bin\Debug\监控端.pdb
+E:\c#\protype\远程监控\监控端\bin\Debug\SmartKernel.Net.Monitor.dll
+E:\c#\protype\远程监控\监控端\bin\Debug\SmartKernel.Net.Monitor.pdb
+E:\c#\protype\远程监控\监控端\obj\Debug\ResolveAssemblyReference.cache
+E:\c#\protype\远程监控\监控端\obj\Debug\SmartKernel.Net.MonitorClient.resources
+E:\c#\protype\远程监控\监控端\obj\Debug\SmartKernel.Net.MonitorUserControl.resources
+E:\c#\protype\远程监控\监控端\obj\Debug\SmartKernel.Net.Properties.Resources.resources
+E:\c#\protype\远程监控\监控端\obj\Debug\GenerateResource-ResGen.read.1.tlog
+E:\c#\protype\远程监控\监控端\obj\Debug\GenerateResource-ResGen.write.1.tlog
+D:\ps收集\c#\protype\远程监控\监控端\obj\Debug\监控端.exe
+D:\ps收集\c#\protype\远程监控\监控端\obj\Debug\监控端.pdb

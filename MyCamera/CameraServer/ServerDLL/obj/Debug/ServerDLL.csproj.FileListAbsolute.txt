@@ -1,0 +1,5 @@
+E:\c#\protype\MyCamera\CameraServer\ServerDLL\bin\Debug\ServerDLL.dll
+E:\c#\protype\MyCamera\CameraServer\ServerDLL\bin\Debug\ServerDLL.pdb
+E:\c#\protype\MyCamera\CameraServer\ServerDLL\obj\Debug\ResolveAssemblyReference.cache
+E:\c#\protype\MyCamera\CameraServer\ServerDLL\obj\Debug\ServerDLL.dll
+E:\c#\protype\MyCamera\CameraServer\ServerDLL\obj\Debug\ServerDLL.pdb

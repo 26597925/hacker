@@ -1,0 +1,9 @@
+E:\c#\protype\wjcsq\文件传输服务器\accep_send\obj\Debug\accep_so.csproj.ResolveComReference.cache
+E:\c#\protype\wjcsq\文件传输服务器\accep_send\bin\Debug\accep_so.exe
+E:\c#\protype\wjcsq\文件传输服务器\accep_send\bin\Debug\accep_so.pdb
+E:\c#\protype\wjcsq\文件传输服务器\accep_send\obj\Debug\ResolveAssemblyReference.cache
+E:\c#\protype\wjcsq\文件传输服务器\accep_send\obj\Debug\accep_so.Form1.resources
+E:\c#\protype\wjcsq\文件传输服务器\accep_send\obj\Debug\GenerateResource-ResGen.read.1.tlog
+E:\c#\protype\wjcsq\文件传输服务器\accep_send\obj\Debug\GenerateResource-ResGen.write.1.tlog
+E:\c#\protype\wjcsq\文件传输服务器\accep_send\obj\Debug\accep_so.exe
+E:\c#\protype\wjcsq\文件传输服务器\accep_send\obj\Debug\accep_so.pdb

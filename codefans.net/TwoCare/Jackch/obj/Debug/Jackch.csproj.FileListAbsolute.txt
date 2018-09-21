@@ -1,0 +1,5 @@
+E:\c#\protype\codefans.net\TwoCare\Jackch\bin\Debug\Jackch.dll
+E:\c#\protype\codefans.net\TwoCare\Jackch\bin\Debug\Jackch.pdb
+E:\c#\protype\codefans.net\TwoCare\Jackch\obj\Debug\ResolveAssemblyReference.cache
+E:\c#\protype\codefans.net\TwoCare\Jackch\obj\Debug\Jackch.dll
+E:\c#\protype\codefans.net\TwoCare\Jackch\obj\Debug\Jackch.pdb

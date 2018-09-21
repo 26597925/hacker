@@ -1,0 +1,24 @@
+C:\Documents and Settings\Administrator\桌面\CameraServer\CameraServer\bin\Debug\CameraServer.exe
+C:\Documents and Settings\Administrator\桌面\CameraServer\CameraServer\bin\Debug\CameraServer.pdb
+C:\Documents and Settings\Administrator\桌面\CameraServer\CameraServer\bin\Debug\ServerDLL.dll
+C:\Documents and Settings\Administrator\桌面\CameraServer\CameraServer\bin\Debug\ServerDLL.pdb
+C:\Documents and Settings\Administrator\桌面\CameraServer\CameraServer\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\CameraServer\CameraServer\obj\Debug\CameraServer.Properties.Resources.resources
+C:\Documents and Settings\Administrator\桌面\CameraServer\CameraServer\obj\Debug\CameraServer.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\桌面\CameraServer\CameraServer\obj\Debug\CameraServer.exe
+C:\Documents and Settings\Administrator\桌面\CameraServer\CameraServer\obj\Debug\CameraServer.pdb
+C:\Documents and Settings\Administrator\桌面\CameraServer\CameraServer\obj\Debug\CameraServer.frmServer.resources
+C:\Documents and Settings\Administrator\桌面\CameraServer\CameraServer\bin\Debug\ListenerDLL.dll
+C:\Documents and Settings\Administrator\桌面\CameraServer\CameraServer\bin\Debug\ListenerDLL.pdb
+D:\CameraServer\CameraServer\obj\Debug\CameraServer.exe
+D:\CameraServer\CameraServer\obj\Debug\CameraServer.pdb
+D:\CameraServer\CameraServer\bin\Debug\CameraServer.exe
+D:\CameraServer\CameraServer\bin\Debug\CameraServer.pdb
+D:\CameraServer\CameraServer\bin\Debug\ListenerDLL.dll
+D:\CameraServer\CameraServer\bin\Debug\ServerDLL.dll
+D:\CameraServer\CameraServer\bin\Debug\ServerDLL.pdb
+D:\CameraServer\CameraServer\bin\Debug\ListenerDLL.pdb
+D:\CameraServer\CameraServer\obj\Debug\ResolveAssemblyReference.cache
+D:\CameraServer\CameraServer\obj\Debug\CameraServer.frmServer.resources
+D:\CameraServer\CameraServer\obj\Debug\CameraServer.Properties.Resources.resources
+D:\CameraServer\CameraServer\obj\Debug\CameraServer.csproj.GenerateResource.Cache

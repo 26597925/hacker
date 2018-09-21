@@ -1,0 +1,7 @@
+E:\c#\protype\远程监控\受控端\bin\Debug\受控端.exe
+E:\c#\protype\远程监控\受控端\bin\Debug\受控端.pdb
+E:\c#\protype\远程监控\受控端\bin\Debug\SmartKernel.Net.Monitor.dll
+E:\c#\protype\远程监控\受控端\bin\Debug\SmartKernel.Net.Monitor.pdb
+E:\c#\protype\远程监控\受控端\obj\Debug\ResolveAssemblyReference.cache
+E:\c#\protype\远程监控\受控端\obj\Debug\受控端.exe
+E:\c#\protype\远程监控\受控端\obj\Debug\受控端.pdb

@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/">
+        <file>resources/filespy.png</file>
+        <file>resources/keyboardspy.png</file>
+        <file>resources/screenspy.png</file>
+        <file>resources/zero.ico</file>
+        <file>resources/zero.png</file>
+        <file>resources/cmdspy.png</file>
+        <file>resources/ddos.png</file>
+        <file>resources/wav/文件上传完毕.wav</file>
+        <file>resources/wav/文件下传完毕.wav</file>
+        <file>resources/wav/有主机上线请注意.wav</file>
+        <file>resources/wav/有主机下线请注意.wav</file>
+    </qresource>
+</RCC>

@@ -1,0 +1,20 @@
+C:\Documents and Settings\Administrator\桌面\CameraClient\CameraClient\bin\Debug\CameraClient.exe
+C:\Documents and Settings\Administrator\桌面\CameraClient\CameraClient\bin\Debug\CameraClient.pdb
+C:\Documents and Settings\Administrator\桌面\CameraClient\CameraClient\bin\Debug\ClassClient.dll
+C:\Documents and Settings\Administrator\桌面\CameraClient\CameraClient\bin\Debug\ClassClient.pdb
+C:\Documents and Settings\Administrator\桌面\CameraClient\CameraClient\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\CameraClient\CameraClient\obj\Debug\CameraClient.frmClient.resources
+C:\Documents and Settings\Administrator\桌面\CameraClient\CameraClient\obj\Debug\CameraClient.Properties.Resources.resources
+C:\Documents and Settings\Administrator\桌面\CameraClient\CameraClient\obj\Debug\CameraClient.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\桌面\CameraClient\CameraClient\obj\Debug\CameraClient.exe
+C:\Documents and Settings\Administrator\桌面\CameraClient\CameraClient\obj\Debug\CameraClient.pdb
+D:\CameraClient\CameraClient\obj\Debug\CameraClient.exe
+D:\CameraClient\CameraClient\obj\Debug\CameraClient.pdb
+D:\CameraClient\CameraClient\bin\Debug\CameraClient.exe
+D:\CameraClient\CameraClient\bin\Debug\CameraClient.pdb
+D:\CameraClient\CameraClient\bin\Debug\ClassClient.dll
+D:\CameraClient\CameraClient\bin\Debug\ClassClient.pdb
+D:\CameraClient\CameraClient\obj\Debug\ResolveAssemblyReference.cache
+D:\CameraClient\CameraClient\obj\Debug\CameraClient.frmClient.resources
+D:\CameraClient\CameraClient\obj\Debug\CameraClient.Properties.Resources.resources
+D:\CameraClient\CameraClient\obj\Debug\CameraClient.csproj.GenerateResource.Cache

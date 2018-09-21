@@ -1,0 +1,5 @@
+bin\Debug\jackch.dll
+bin\Debug\jackch.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\jackch.dll
+obj\Debug\jackch.pdb

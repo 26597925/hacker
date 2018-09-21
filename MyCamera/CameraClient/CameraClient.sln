@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CameraClient", "CameraClient\CameraClient.csproj", "{ABF72C3E-D07C-4D0D-AA7D-EF770667E4B8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassClient", "ClassClient\ClassClient.csproj", "{067A6A6D-E960-4458-9EC0-38C779CAC7B0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ABF72C3E-D07C-4D0D-AA7D-EF770667E4B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ABF72C3E-D07C-4D0D-AA7D-EF770667E4B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ABF72C3E-D07C-4D0D-AA7D-EF770667E4B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ABF72C3E-D07C-4D0D-AA7D-EF770667E4B8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{067A6A6D-E960-4458-9EC0-38C779CAC7B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{067A6A6D-E960-4458-9EC0-38C779CAC7B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{067A6A6D-E960-4458-9EC0-38C779CAC7B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{067A6A6D-E960-4458-9EC0-38C779CAC7B0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

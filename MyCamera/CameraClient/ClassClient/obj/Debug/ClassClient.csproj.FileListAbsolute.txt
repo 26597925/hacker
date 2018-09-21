@@ -1,0 +1,5 @@
+E:\c#\protype\MyCamera\CameraClient\ClassClient\bin\Debug\ClassClient.dll
+E:\c#\protype\MyCamera\CameraClient\ClassClient\bin\Debug\ClassClient.pdb
+E:\c#\protype\MyCamera\CameraClient\ClassClient\obj\Debug\ResolveAssemblyReference.cache
+E:\c#\protype\MyCamera\CameraClient\ClassClient\obj\Debug\ClassClient.dll
+E:\c#\protype\MyCamera\CameraClient\ClassClient\obj\Debug\ClassClient.pdb

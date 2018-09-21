@@ -1,0 +1,10 @@
+C:\Documents and Settings\Administrator\桌面\CameraClient\ClassClient\bin\Debug\ClassClient.dll
+C:\Documents and Settings\Administrator\桌面\CameraClient\ClassClient\bin\Debug\ClassClient.pdb
+C:\Documents and Settings\Administrator\桌面\CameraClient\ClassClient\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\CameraClient\ClassClient\obj\Debug\ClassClient.dll
+C:\Documents and Settings\Administrator\桌面\CameraClient\ClassClient\obj\Debug\ClassClient.pdb
+D:\CameraClient\ClassClient\bin\Debug\ClassClient.dll
+D:\CameraClient\ClassClient\bin\Debug\ClassClient.pdb
+D:\CameraClient\ClassClient\obj\Debug\ResolveAssemblyReference.cache
+D:\CameraClient\ClassClient\obj\Debug\ClassClient.dll
+D:\CameraClient\ClassClient\obj\Debug\ClassClient.pdb

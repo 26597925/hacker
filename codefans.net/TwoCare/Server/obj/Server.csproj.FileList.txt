@@ -1,0 +1,8 @@
+bin\Debug\Server.exe
+bin\Debug\Server.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Server.csproj.GenerateResource.Cache
+obj\Debug\Server.exe
+obj\Debug\Server.pdb
+obj\Debug\Jackch.Properties.Resources.resources
+obj\Debug\Jackch.Server.resources

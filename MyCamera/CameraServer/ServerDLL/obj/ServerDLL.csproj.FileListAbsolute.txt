@@ -1,0 +1,10 @@
+C:\Documents and Settings\Administrator\桌面\CameraServer\ServerDLL\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\CameraServer\ServerDLL\bin\Debug\ServerDLL.dll
+C:\Documents and Settings\Administrator\桌面\CameraServer\ServerDLL\bin\Debug\ServerDLL.pdb
+C:\Documents and Settings\Administrator\桌面\CameraServer\ServerDLL\obj\Debug\ServerDLL.dll
+C:\Documents and Settings\Administrator\桌面\CameraServer\ServerDLL\obj\Debug\ServerDLL.pdb
+D:\CameraServer\ServerDLL\bin\Debug\ServerDLL.dll
+D:\CameraServer\ServerDLL\bin\Debug\ServerDLL.pdb
+D:\CameraServer\ServerDLL\obj\Debug\ResolveAssemblyReference.cache
+D:\CameraServer\ServerDLL\obj\Debug\ServerDLL.dll
+D:\CameraServer\ServerDLL\obj\Debug\ServerDLL.pdb

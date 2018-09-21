@@ -1,0 +1,10 @@
+E:\c#\protype\codefans.net\TwoCare\Server\bin\Debug\Server.exe
+E:\c#\protype\codefans.net\TwoCare\Server\bin\Debug\Server.pdb
+E:\c#\protype\codefans.net\TwoCare\Server\obj\Debug\ResolveAssemblyReference.cache
+E:\c#\protype\codefans.net\TwoCare\Server\obj\Debug\Jackch.FontForm.resources
+E:\c#\protype\codefans.net\TwoCare\Server\obj\Debug\Jackch.Properties.Resources.resources
+E:\c#\protype\codefans.net\TwoCare\Server\obj\Debug\Jackch.Server.resources
+E:\c#\protype\codefans.net\TwoCare\Server\obj\Debug\GenerateResource-ResGen.read.1.tlog
+E:\c#\protype\codefans.net\TwoCare\Server\obj\Debug\GenerateResource-ResGen.write.1.tlog
+E:\c#\protype\codefans.net\TwoCare\Server\obj\Debug\Server.exe
+E:\c#\protype\codefans.net\TwoCare\Server\obj\Debug\Server.pdb

@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CameraServer", "CameraServer\CameraServer.csproj", "{10A02B96-4BB9-44F1-8185-7F3F2F6C7821}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ServerDLL", "ServerDLL\ServerDLL.csproj", "{8D687712-D2DC-4EE6-9AAD-B7E085804047}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ListenerDLL", "ListenerDLL\ListenerDLL.csproj", "{CAB13344-533D-4448-8109-73B4AA35C626}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{10A02B96-4BB9-44F1-8185-7F3F2F6C7821}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{10A02B96-4BB9-44F1-8185-7F3F2F6C7821}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{10A02B96-4BB9-44F1-8185-7F3F2F6C7821}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{10A02B96-4BB9-44F1-8185-7F3F2F6C7821}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8D687712-D2DC-4EE6-9AAD-B7E085804047}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D687712-D2DC-4EE6-9AAD-B7E085804047}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D687712-D2DC-4EE6-9AAD-B7E085804047}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D687712-D2DC-4EE6-9AAD-B7E085804047}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CAB13344-533D-4448-8109-73B4AA35C626}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CAB13344-533D-4448-8109-73B4AA35C626}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CAB13344-533D-4448-8109-73B4AA35C626}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CAB13344-533D-4448-8109-73B4AA35C626}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,10 @@
+C:\Documents and Settings\Administrator\桌面\CameraServer\ListenerDLL\bin\Debug\ListenerDLL.dll
+C:\Documents and Settings\Administrator\桌面\CameraServer\ListenerDLL\bin\Debug\ListenerDLL.pdb
+C:\Documents and Settings\Administrator\桌面\CameraServer\ListenerDLL\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\CameraServer\ListenerDLL\obj\Debug\ListenerDLL.dll
+C:\Documents and Settings\Administrator\桌面\CameraServer\ListenerDLL\obj\Debug\ListenerDLL.pdb
+D:\CameraServer\ListenerDLL\bin\Debug\ListenerDLL.dll
+D:\CameraServer\ListenerDLL\bin\Debug\ListenerDLL.pdb
+D:\CameraServer\ListenerDLL\obj\Debug\ResolveAssemblyReference.cache
+D:\CameraServer\ListenerDLL\obj\Debug\ListenerDLL.dll
+D:\CameraServer\ListenerDLL\obj\Debug\ListenerDLL.pdb
